@@ -1,9 +1,7 @@
-import React from "react";
-
 export default function Home() {
   return (
     <div>
-      <h1>Bem-vindo!</h1>
+      <h1>Em construção</h1>
     </div>
   );
 }
