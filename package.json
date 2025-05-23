@@ -1,0 +1,22 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto com intuito de estudos. Curso.dev",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "lint:check": "prettier --check .",
+    "lint:fix": "prettier --write ."
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  },
+  "dependencies": {
+    "next": "^15.1.8",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
